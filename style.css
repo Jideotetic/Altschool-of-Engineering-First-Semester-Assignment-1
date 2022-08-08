@@ -310,6 +310,12 @@ hr {
   #sign-in-form {
     width: 500px;
   }
+
+  .skills-hobbies {
+    flex-direction: row;
+    justify-content: space-between;
+    
+  }
 }
 
 @media (min-width: 1440px) {
